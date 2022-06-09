@@ -1,0 +1,18 @@
+body{
+    background-color:lightblue;
+}
+h1{
+    background-color: pink;
+    margin: 0;
+    width: 100%;
+    padding: 20px;
+    font-weight: bold;
+}
+#show_sketch{
+    float: right;
+    margin-right:20px;
+
+}
+.content{
+    font-size: 20px;
+}
